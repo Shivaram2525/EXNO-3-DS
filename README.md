@@ -31,7 +31,12 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+```
+Name   : Shivaram M.
+Reg.No : 212223040195
+```
+
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
 
